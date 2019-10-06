@@ -1,0 +1,171 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-color: #000f94;
+	font-family: Consolas;
+	color: white;
+}
+
+.baner
+{
+	margin :50px; 
+	margin-left: 25vw;
+	width: 50vw;
+	height: 15vh;
+	background-color: #000f94;
+	text-align: left;
+	text-orientation: top;
+	margin-bottom: 25px;
+	font-size: 30px;
+	align-items: center;
+	color: white;
+}
+.tlo
+{
+	margin-left: 30vw; 
+	margin-right:50px;
+	width: 50vw;
+	height: 10vh;
+	font-size: 17px;
+}
+
+
+
+.omnie
+{
+	margin: 1vw;
+	float: left;
+	width: 10vw;
+	height: 50px;
+	text-align: justify;
+	background-color: #fff56b;
+}
+.naglowek1
+{
+	margin-left:20vw; 
+	margin-right:50px;
+	width: 60vw;
+	height: 15px;
+	background-color: #fff56b;
+}
+.opis
+{
+	margin-left:20vw; 
+	margin-right:50px;
+	width: 60vw;
+	height: 200vh;
+}
+
+
+
+.foty
+{
+	margin: 1vw;
+	float: left;
+	width: 10vw;
+	text-align: justify;
+	height: 50px;
+	background-color: #ed2828;
+}
+.naglowek2
+{
+	margin-left:20vw; 
+	margin-right:50px;
+	width: 60vw;
+	height: 15px;
+	background-color: #ed2828;
+}
+.galeria
+{
+	margin-left:20vw; 
+	margin-right:50px;
+	width: 70vw;
+	height: 200vh;
+}
+
+
+
+.animacje
+{
+	margin: 1vw;
+	float: left;
+	width: 10vw;
+	text-align: justify;
+	height: 50px;
+	background-color: #38b04a;
+}
+.naglowek3
+{
+	margin-left:20vw; 
+	margin-right:50px;
+	width: 60vw;
+	height: 15px;
+	background-color: #38b04a;
+}
+.move
+{
+	margin-left:20vw; 
+	margin-right:50px;
+	width: 70vw;
+	height: 300vh;
+
+}
+
+
+a:hover
+{
+	color: white;
+	text-decoration: none;
+	background-color: black;
+}
+a:visited
+{
+	color: white;
+	text-decoration: none;
+}
+a:active
+{
+	color: red;
+	text-decoration: none;
+}
+a:link
+{
+	text-decoration: none
+}
+.zdj
+{
+	min-height: 300px
+	min-width: 500px;
+	max-width: 700px;
+	max-height:500px;
+	margin: 5.5vw;
+	
+}
+.anim
+{
+	width: 300px;
+	height:300px;
+	margin: 5.5vw;
+}
+
+img:hover {
+    transform: scale(1.5);
+
+    }
+.grafiki
+{
+	color: white;
+}
+.stopka
+{
+	margin-top: 49vh;
+	width: 100vw;
+	height: 16vh;
+	vertical-align: bottom;
+	text-align: bottom;
+	position: relative; bottom: 0;
+}
