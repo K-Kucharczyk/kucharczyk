@@ -115,7 +115,6 @@ body
 
 }
 
-
 a:hover
 {
 	color: white;
@@ -153,8 +152,7 @@ a:link
 }
 
 img:hover {
-    transform: scale(1.5);
-
+    transform: scale(1.2);
     }
 .grafiki
 {
