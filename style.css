@@ -119,7 +119,6 @@ a:hover
 {
 	color: white;
 	text-decoration: none;
-	background-color: black;
 }
 a:visited
 {
@@ -133,7 +132,8 @@ a:active
 }
 a:link
 {
-	text-decoration: none
+	color: red;
+	text-decoration: none;
 }
 .zdj
 {
@@ -144,6 +144,18 @@ a:link
 	margin: 5.5vw;
 	
 }
+
+.graf
+{
+	min-height: 200px
+	min-width: 400px;
+	max-width: 600px;
+	max-height:400px;
+	margin: 4vw;
+	
+}
+
+
 .anim
 {
 	width: 300px;
@@ -152,7 +164,11 @@ a:link
 }
 
 img:hover {
-    transform: scale(1.2);
+    transform: scale(1.25);
+    border: solid;
+    border-width: 7px;
+    border-color: white;
+    box-shadow: transparent; 
     }
 .grafiki
 {
